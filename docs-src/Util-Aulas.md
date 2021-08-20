@@ -128,7 +128,7 @@ Trabalhar com transistores e circuitos integrados.
 
 1. Laboratório (1h10):
     - [Lab 3: Transistores / CI](https://insper.github.io/Z01.1/A-Transistores-Lab-1/)
-
+-->
 ## Aula 2 
 
 Estudar lógica booleana e praticar; Introdução ao git com trabalho coletivo.
@@ -138,18 +138,15 @@ Estudar lógica booleana e praticar; Introdução ao git com trabalho coletivo.
 | [Teoria Álgebra Booleana](https://insper.github.io/Z01.1/Teoria-Algebra-Booleana/) |
 
 1. Expositiva/ Dúvidas  (45 min)
-    - [Lousa](https://github.com/Insper/Z01.1/raw/master/Materias-Aula/02-Algebra-Booleana-Lousa.png) 
-    
-1. Kahoot (10 min)
-    - https://create.kahoot.it/creator/c7adbf49-4c8c-4756-b4c9-63361626c20d
+    - [Slides](https://github.com/Insper/Z01.1/blob/main/Aulas/02-AlgebraBooleana.pdf) 
 
-1. Handout/ Exercício (1h00):
+1. Handout/ Exercício/ Vevox (1h00):
     - [Álgebra Booleana - 1](/Z01.1/Exercicio-Algebra-Booleana-1)
     - [Álgebra Booleana - 2](/Z01.1/Exercicio-Algebra-Booleana-2)
 
 1. Laboratório (15 min): 
     - [Lab 2: GitHub](/Z01.1/A-Ambiente-Lab-2)
--->
+
 ## Aula 1
 
 Aula de apresentação da matéria; visão geral do que vai ser feito; Criação de grupos e preparar github do grupo.
