@@ -18,23 +18,23 @@ Vamos usar o simulador do site falstad para implementar um circuito feito com tr
 1. :arrow_right: Arquivo :arrow_right: Importar Arquivo Texto :arrow_right: Copiar e colar o texto a seguir
 
 ```
-$ 1 0.000005 10.20027730826997 52 5 50
+$ 1 0.000005 10.20027730826997 52 5 50 5e-11
 R 368 64 320 64 0 0 40 6 0 0 0.5
-g 368 432 368 496 0
-t 320 208 368 208 0 1 -2.4273420612275154 0.6036514634436996 100
+g 368 432 368 496 0 0
+t 320 208 368 208 0 1 -5.999999987759469 -1.926578083306543 100 default
 w 368 160 368 192 0
-t 320 256 368 256 0 1 0.5145133301062574 0.6054914059129475 100
+t 320 256 368 256 0 1 -1.9265780914939181 -1.2199999820401186e-8 100 default
 w 368 224 368 240 0
 w 368 272 368 288 0
 w 368 368 368 384 0
 r 320 208 240 208 0 2000
 r 240 256 320 256 0 2000
-L 240 208 208 208 0 1 false 3.6 0
-L 240 256 208 256 0 1 false 3.6 0
+L 240 208 208 208 0 0 false 5 0
+L 240 256 208 256 0 0 false 5 0
 r 368 288 368 368 0 2000
 r 368 288 448 288 0 2000
-t 448 288 496 288 0 1 -3.1219716002696054 -0.07756831971486333 100
-t 448 368 496 368 0 1 -5.999999999780089 -2.9555967192253467 100
+t 448 288 496 288 0 1 -5.999999971546844 1.625315590685889e-8 100 default
+t 448 368 496 368 0 1 -5.9999999878 -6.362935157139823e-17 100 default
 w 448 368 320 368 0
 r 320 368 224 368 0 2000
 w 496 272 496 160 0
@@ -48,7 +48,7 @@ w 496 384 576 384 0
 w 576 384 576 304 0
 r 576 400 576 464 0 1000
 w 368 432 368 384 0
-g 576 448 576 496 0
+g 576 464 576 512 0 0
 M 576 384 640 384 0 2.5
 L 224 368 208 368 0 0 false 5 0
 w 576 400 576 384 0
@@ -59,6 +59,71 @@ Vocês devem obter o seguinte diagrama:
 ![](figs/A-Transistores/simulacao.gif){width=400}
 
 Com o circuito carreado no site, encontre:
+
+!!! example "Tarefa"
+    1. Encontre a tabela verdade do circuito.
+        - Faça todas as combinações possíveis de entradas (H/L) e verifique o valor da saída (H/L)
+    1. A partir da tabela verdade encontre a equação lógica.
+    1. Desenhar o diagrama da equação (simplificado).
+
+
+## Outro circuito misterioso
+
+Implementar o outro circuito feito com transistores que implementa uma equação booleana no simulador do site falstad. 
+
+1. Abra o site: http://www.falstad.com/circuit/
+1. :arrow_right: Arquivo :arrow_right: Importar Arquivo Texto :arrow_right: Copiar e colar o texto a seguir
+
+```
+$ 1 0.000005 10.20027730826997 52 5 50 5e-11
+R 368 64 320 64 0 0 40 5 0 0 0.5
+L 240 208 208 208 0 0 false 3.6 0
+L 240 256 208 256 0 0 false 3.6 0
+w 368 192 368 64 0
+g 368 528 368 576 0 0
+M 576 336 640 336 0 2.5
+L 240 304 208 304 0 0 false 5 0
+f 240 208 368 208 33 1.5 0.02
+w 464 192 464 64 0
+w 368 64 464 64 0
+f 336 480 368 480 32 1.5 0.02
+w 464 224 464 272 0
+w 416 272 464 272 0
+w 368 224 368 240 0
+w 368 240 416 240 0
+w 416 240 416 272 0
+w 368 384 368 336 0
+w 368 336 416 336 0
+w 416 304 416 336 0
+w 416 336 464 336 0
+w 464 336 464 384 0
+w 464 336 576 336 0
+w 368 416 368 464 0
+w 368 496 368 528 0
+w 464 416 464 528 0
+w 464 528 368 528 0
+w 240 304 240 352 0
+w 240 352 400 352 0
+w 400 352 400 400 0
+f 400 400 464 400 32 1.5 0.02
+w 336 480 272 480 0
+w 272 480 272 256 0
+w 272 256 240 256 0
+w 272 256 272 144 0
+w 272 144 416 144 0
+w 416 144 416 208 0
+f 416 208 464 208 33 1.5 0.02
+f 320 288 416 288 33 1.5 0.02
+f 336 400 368 400 32 1.5 0.02
+w 336 400 288 400 0
+w 288 400 288 224 0
+w 288 224 240 224 0
+w 240 224 240 208 0
+w 320 288 320 304 0
+w 320 304 240 304 0
+```
+
+Assim como no circuito anterior, encontre:
 
 !!! example "Tarefa"
     1. Encontre a tabela verdade do circuito.
