@@ -29,7 +29,7 @@ Atualizando repositório do grupo com alterações feitas no repositório da dis
 
 ```bash
 $ git fetch upstream
-$ git checkout master
-$ git merge upstream/master
-$ git push origin master
+$ git checkout main
+$ git merge upstream/main
+$ git push origin main
 ```
