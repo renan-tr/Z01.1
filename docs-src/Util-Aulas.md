@@ -2,7 +2,7 @@
 
 Resumo e planejamento das aulas.
 
-![](https://github.com/Insper/Z01.1/raw/master/Planejamento.png){width=550}
+![](https://github.com/Insper/Z01.1/raw/main/Planejamento.png){width=550}
 
 <!--
 ## Aula 13 - nasm jmp 
@@ -35,7 +35,7 @@ Labs:
 
 -  Labs e Teoria (~1h15):
 
--->
+
 
 ## Aula 9
 
@@ -113,7 +113,7 @@ Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
 1. Handout/ Exercício (1h10):
     - [Dados Digitais 1](https://docs.google.com/spreadsheets/d/1rN_zQqYaVI8PjAhKqEBCmY-_06I0X9dD0RddcI-miJs/edit?usp=sharing)
     - [Dados Digitais 2](https://insper.github.io/Z01.1/Exercicio-Dados-2/)
-
+-->
 ## Aula 3
 
 Trabalhar com transistores e circuitos integrados.
@@ -121,12 +121,12 @@ Trabalhar com transistores e circuitos integrados.
 | Estudo prévio                                            |
 |----------------------------------------------------------|
 | [Teoria RTL](https://insper.github.io/Z01.1/Teoria-RTL/) |
+| [Teoria CMOS](https://insper.github.io/Z01.1/Teoria-CMOS/) |
 
-1. Expositiva/ Dúvidas  (0h50):
-    - [Slides](https://github.com/Insper/Z01.1/raw/master/Materias-Aula/03-Transitores-CI-Slides.pdf)
-    - [Lousa](https://github.com/Insper/Z01.1/raw/master/Materias-Aula/03-Transitores-CI-Lousa.pdf.png)
+1. Expositiva/ Dúvidas  (0h40):
+    - [Slides](https://github.com/Insper/Z01.1/raw/main/Aulas/03-Slides-Transitores.pdf)
 
-1. Laboratório (1h10):
+1. Laboratório (1h20):
     - [Lab 3: Transistores / CI](https://insper.github.io/Z01.1/A-Transistores-Lab-1/)
 
 ## Aula 2 
@@ -138,12 +138,9 @@ Estudar lógica booleana e praticar; Introdução ao git com trabalho coletivo.
 | [Teoria Álgebra Booleana](https://insper.github.io/Z01.1/Teoria-Algebra-Booleana/) |
 
 1. Expositiva/ Dúvidas  (45 min)
-    - [Lousa](https://github.com/Insper/Z01.1/raw/master/Materias-Aula/02-Algebra-Booleana-Lousa.png) 
-    
-1. Kahoot (10 min)
-    - https://create.kahoot.it/creator/c7adbf49-4c8c-4756-b4c9-63361626c20d
+    - [Slides](https://github.com/Insper/Z01.1/blob/main/Aulas/02-AlgebraBooleana.pdf) 
 
-1. Handout/ Exercício (1h00):
+1. Handout/ Exercício/ Vevox (1h00):
     - [Álgebra Booleana - 1](/Z01.1/Exercicio-Algebra-Booleana-1)
     - [Álgebra Booleana - 2](/Z01.1/Exercicio-Algebra-Booleana-2)
 
@@ -155,13 +152,13 @@ Estudar lógica booleana e praticar; Introdução ao git com trabalho coletivo.
 Aula de apresentação da matéria; visão geral do que vai ser feito; Criação de grupos e preparar github do grupo.
 
 1. Slides (1h00):
-    - [Slide](https://github.com/Insper/Z01.1/raw/master/Materias-Aula/01-Introducao-Slides.pdf)
+    - [Slide](https://github.com/Insper/Z01.1/blob/main/Aulas/01-OrganizacaoDeComputadores.pdf)
     - [Prezi](https://prezi.com/view/InQMPs4wjxMtznUGlW6L/)
     CALC
     
 1. Handout/ Estudo/ Exercício (40 min):
-    - [Montar grupos](https://docs.google.com/spreadsheets/d/1hbrLelEdeRQr9siGwYfisSL55E5JMIX5kgyoh7u47yY/edit?usp=sharing)
-    - [Mural](https://app.mural.co/t/elementos9119/m/elementos9119/1597285239955/b0ee33c2c314f45deed54bff567249274e9cccc6)
+    - [Montar grupos](https://docs.google.com/spreadsheets/d/1XhAXg-nwWI8tvm6oyWrA2L4KHHK8cY8r19hw9sZuAhE/edit?usp=sharing)
+    - [Mural](https://app.mural.co/invitation/mural/elementos9119/1628606349982?sender=u4a998cd84eb9376497204438&key=a177e160-10a3-47a3-ae03-76784c7b765f)
    
 1. Laboratório (20 min): 
     - [Lab 1: Configurando GitHub](/Z01.1/A-Ambiente-Lab-1)

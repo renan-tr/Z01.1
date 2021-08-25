@@ -42,7 +42,7 @@ $ git clone $URL_DO_FORK
     Antes de começar, atualize seu repositório com o remoto
     
     ```bash
-    $ git pull origin master
+    $ git pull origin main
     ```
     
 Nesse etapa cada integrante do grupo irá editar um arquivo no seu computador e realizar um pull-request para o repositório do grupo. Para isso seguiremos as etapas a seguir:
