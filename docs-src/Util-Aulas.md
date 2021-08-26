@@ -105,7 +105,7 @@ Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
 
 | Estudo prévio                                |
 |----------------------------------------------|
-| https://insper.github.io/Z01.1/Teoria-Dados/ |
+| [Dados digitais](https://insper.github.io/Z01.1/Teoria-Dados/) |
 
 1. Expositiva/ Dúvidas (0h40):
     - [Slides](https://github.com/Insper/Z01.1/raw/main/Aulas/04-Slides-DadosDigitais.pdf)
