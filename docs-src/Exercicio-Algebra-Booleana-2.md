@@ -63,7 +63,7 @@ A fig. a seguir mostra quatro chaves que fazem parte do circuito de controle em 
 
 Encontre as equações que regem os segmentos `0` e `6` de um display de 7 segmento.
 
-> ![](https://raw.githubusercontent.com/Insper/Z01.1/main/docs-src/figs/C-LogiComb/7seg-manual.png)
+> ![](https://raw.githubusercontent.com/Insper/Z01.1/main/docs-src/figs/LogiComb/7seg-manual.png)
 
 
 !!! warning
