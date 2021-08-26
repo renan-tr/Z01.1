@@ -2,6 +2,9 @@
 
 [![](figs/pdf.png){width=25} Versão para impressão.](https://github.com/Insper/Z01.1/raw/main/Exercicios/Exercicio-Algebra-Booleana-2.pdf) 
 
+!!! tip ""
+    [:pencil: Resolução](https://github.com/Insper/Z01.1/blob/master/Exercicios/Exercicio-Algebra-Booleana-2-resolucao.pdf)
+
 ### Simplifique o circuito a seguir:
 
 ![](figs/Exercicios/AlgebraBooleana-circuito-2.png)
@@ -60,7 +63,7 @@ A fig. a seguir mostra quatro chaves que fazem parte do circuito de controle em 
 
 Encontre as equações que regem os segmentos `0` e `6` de um display de 7 segmento.
 
-> ![](https://raw.githubusercontent.com/Insper/Z01.1/master/docs-src/figs/C-LogiComb/7seg-manual.png)
+> ![](https://raw.githubusercontent.com/Insper/Z01.1/main/docs-src/figs/C-LogiComb/7seg-manual.png)
 
 
 !!! warning
