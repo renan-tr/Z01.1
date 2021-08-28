@@ -29,13 +29,13 @@ Liberado consulta ao material da disciplina.
 - Exercícios:
    -  [Handout Aritmética Booleana](https://github.com/Insper/Z01.1/blob/master/Exercicios/Exercicio-Aritmetica-Booleana.pdf)
    -  [Lógica Sequencial 1](https://docs.google.com/forms/d/e/1FAIpQLSdGuoLR1Re3aok6I6adChgaDuMg0-dJaA7FF2gK5MLIGReg3g/viewform)
+
+Simulado liberado no blackboard.
 --->
 
 ## AV1 - sexta 03/09
 
 Avaliação teórica será realizado no blackboard, com proctorio e sem consulta.
-
-Simulado liberado no blackboard.
 
 - Conteúdos: 
     - Organização de Computadores (visão geral)
