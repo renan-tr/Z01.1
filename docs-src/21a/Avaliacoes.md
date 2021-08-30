@@ -52,7 +52,7 @@ Avaliação teórica será realizado no blackboard, com proctorio e sem consulta
     - Dados digitais
     - Binário, Hexadecimal
     - ASCII, BCD
-    - Conversão bin -- hex -- dec
+    - Conversão entre bases
 
 <!--
 
