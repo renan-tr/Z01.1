@@ -53,7 +53,16 @@ Avaliação teórica será realizado no blackboard, com proctorio e sem consulta
     - Binário, Hexadecimal
     - ASCII, BCD
     - Conversão entre bases
+    - Complemento de 2
 
+- Simulado: 
+    -  [Av1](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Av1-Simulado.pdf)
+
+- Questões de ENADE: 
+    -  [2008](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/enade2008.pdf)
+    -  [2014](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/enade2014.pdf)
+    -  [2017](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/enade2017.pdf)
+    -  [Video](https://drive.google.com/file/d/1fPyAzyWFIXi8NeilBf5AIsQoe6tl9jbh/view?usp=sharing)
 <!--
 
 - Teórica: https://docs.google.com/forms/d/e/1FAIpQLSeCtVXIBXCKqEem1DujLaT5ScfQsVmvl3o3i8eyGCJSZuvX8g/viewform?usp=sf_link
