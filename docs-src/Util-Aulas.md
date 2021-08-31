@@ -97,7 +97,7 @@ Inicio do projeto B - Lógica Booleana, começo do uso de VHDL.
     - [Slides](https://github.com/Insper/Z01.1/raw/main/Aulas/05-Slides-LogComb-VHDL.pdf)
 
 1. Laboratórios (1h20)
-   - [Lab4: FPGA - VHDL][https://insper.github.io/Z01.1/LogiComb-Lab-1]
+   - [Lab4: FPGA - VHDL](https://insper.github.io/Z01.1/LogiComb-Lab-1)
 
 ## Aula 4
 
