@@ -74,9 +74,14 @@ Começo do projeto C-ULA, trabalhando com aritmética binária.
 
 Aula estúdio Projeto B.
 
+1. Laboratórios (2h00)
+   - [Lab4: FPGA - VHDL][/Z01.1/LogiComb-Lab-1]
+   - [Lab5: Lógica Combinacional][/Z01.1/LogiComb-Lab-2]
+
 ### Aula 6
 
 Primeira Avaliação Individual - A1
+-->
 
 ## Aula 5 
 
@@ -88,17 +93,12 @@ Inicio do projeto B - Lógica Booleana, começo do uso de VHDL.
 | https://insper.github.io/Z01.1/VHDL-basico/        |
 | https://insper.github.io/Z01.1/VHDL-Combinacional/ |
 
-1. Expositiva/ Dúvidas (0h50)
+1. Expositiva/ Dúvidas (0h40)
+    - [Slides](https://github.com/Insper/Z01.1/raw/main/Aulas/05-Slides-LogComb-VHDL.pdf)
 
-1. Handout/ Exercício (1h10):
-    - [Dados Digitais 1](https://docs.google.com/spreadsheets/d/1rN_zQqYaVI8PjAhKqEBCmY-_06I0X9dD0RddcI-miJs/edit?usp=sharing)
-    - [Dados Digitais 2](https://insper.github.io/Z01.1/Exercicio-Dados-2/)
-
-   
-1. Laboratórios (1h30)
+1. Laboratórios (1h20)
    - [Lab4: FPGA - VHDL][/Z01.1/LogiComb-Lab-1]
-   - [Lab5: Lógica Combinacional][/Z01.1/LogiComb-Lab-2]
--->
+
 ## Aula 4
 
 Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
