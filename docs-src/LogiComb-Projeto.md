@@ -2,7 +2,7 @@
 
 | Data da entrega| 
 |----------------|
-| Quinta - 18/3  |
+| Quinta - 09/09 |
 
 ![](figs/LogiComb/sistema-comb.svg)
 
@@ -188,7 +188,7 @@ Cada integrante do grupo irá receber duas notas: Uma referente ao desenvolvimen
 
 | Data da entrega| 
 |----------------|
-| Quinta - 18/3  |
+| Quinta - 09/09 |
 
 Para atingir os objetivos A e B, deve-se antes atingir o C.
 
