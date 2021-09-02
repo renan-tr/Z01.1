@@ -142,4 +142,4 @@ Faça a implementação do `Mux2Way.vhd`, usando os mesmos passos anteriores.
 Agora é começar a trabalhar nos demais módulos do projeto, leia a descrição do Projeto B na página de projetos.
 
 !!! tip "Scrum Master"
-    Você é scrum? Então tem várias tarefas pela frente! Acesse a página [Util -> Vixi! Sou scrum master](Z01.1/Util-vixi-sou-scrum/) e siga os passos lá!
+    Você é scrum? Então tem várias tarefas pela frente! Acesse a página [Util -> Vixi! Sou scrum master](/Z01.1/Util-vixi-sou-scrum/) e siga os passos lá!
