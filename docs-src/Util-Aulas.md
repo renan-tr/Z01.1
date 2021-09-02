@@ -77,11 +77,11 @@ Aula estúdio Projeto B.
 1. Laboratórios (2h00)
    - [Lab4: FPGA - VHDL][/Z01.1/LogiComb-Lab-1]
    - [Lab5: Lógica Combinacional][/Z01.1/LogiComb-Lab-2]
-
+-->
 ### Aula 6
 
 Primeira Avaliação Individual - A1
--->
+
 
 ## Aula 5 
 
