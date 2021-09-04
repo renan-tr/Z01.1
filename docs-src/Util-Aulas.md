@@ -77,7 +77,7 @@ Começo do projeto C-ULA, trabalhando com aritmética binária.
 Aula estúdio Projeto B.
 
 1. Laboratórios (2h00)
-   - [Lab5: Lógica Combinacional][/Z01.1/LogiComb-Lab-2]
+   - [Lab5: Lógica Combinacional](/Z01.1/LogiComb-Lab-2)
 
 ## Aula 6
 
