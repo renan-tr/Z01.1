@@ -70,15 +70,16 @@ Começo do projeto C-ULA, trabalhando com aritmética binária.
    - [Lab 6: Adders][/Z01.1/ula-Lab-1/]
    - [Lab 7: Visualizando simulação ][/Z01.1/ula-Lab-2/]
 
+-->
+
 ## Aula 7
 
 Aula estúdio Projeto B.
 
 1. Laboratórios (2h00)
-   - [Lab4: FPGA - VHDL][/Z01.1/LogiComb-Lab-1]
    - [Lab5: Lógica Combinacional][/Z01.1/LogiComb-Lab-2]
--->
-### Aula 6
+
+## Aula 6
 
 Primeira Avaliação Individual - A1
 
