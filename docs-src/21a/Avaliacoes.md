@@ -33,7 +33,7 @@ Liberado consulta ao material da disciplina.
 Simulado liberado no blackboard.
 --->
 
-## AV1 - sexta 03/09 - [Resoluções](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Av1_bb_respostas.pdf)
+## AV1 - sexta 03/09 - [Resolução](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Av1_bb_respostas.pdf)
 
 Avaliação teórica será realizado no blackboard, com proctorio e sem consulta.
 
