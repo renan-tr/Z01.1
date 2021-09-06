@@ -83,6 +83,8 @@ Aula estúdio Projeto B.
 
 Primeira Avaliação Individual - A1
 
+[Resolução](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Av1_bb_respostas.pdf)
+
 
 ## Aula 5 
 
