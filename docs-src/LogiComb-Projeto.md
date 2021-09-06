@@ -172,7 +172,7 @@ Deve-se implementar os seguintes circuitos combinacionais:
 
 !!! tip "Display 7s"
     1. Esse item é uma continuação do que foi realizado no [Lab4](/LogiComb-Lab-1/), onde vocês tiveram que exibir um valor constante no display de 7s. 
-    1. Para cada segmento do display, vocês devem encontrar uma equação booleana que o represente, e então implementar em VHDL~~e testar na FPGA~~.
+    1. Para cada segmento do display, vocês devem encontrar uma equação booleana que o represente, e então implementar em VHDL. ~~e testar na FPGA~~
 <!--
 - O grupo deve apresentar um vídeo da FPGA mostrando nos display de 7 segmentos o seguinte:
     - (C) O valor em hexadecimal da palavra binária formada pelas chaves SW(3 .. 0)
