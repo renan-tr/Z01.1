@@ -69,8 +69,8 @@ Começo do projeto C-ULA, trabalhando com aritmética binária.
     - [Handout Aritmética Booleana](https://github.com/Insper/Z01.1/blob/master/Exercicios/Exercicio-Aritmetica-Booleana.pdf)
 
 1. Laboratórios (0h50)
-    - [Lab 6: Adders][/Z01.1/ula-Lab-1/]
-    - [Lab 7: Visualizando simulação ][/Z01.1/ula-Lab-2/]
+    - [Lab 6: Adders](/Z01.1/ula-Lab-1/)
+    - [Lab 7: Visualizando simulação ](/Z01.1/ula-Lab-2/)
 
 
 
