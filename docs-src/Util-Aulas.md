@@ -51,6 +51,7 @@ Detalhes da ULA da CPU do Z01.1.
    - [Lab 8: ULA][/Z01.1/ula-Lab-3/]
 
 1. Aula estúdio (1h00)
+-->
 
 ## Aula 8 
 
@@ -61,23 +62,24 @@ Começo do projeto C-ULA, trabalhando com aritmética binária.
 | [Aritmética Binária](https://insper.github.io/Z01.1/Teoria-Aritmetica-Binaria/)         |
 | [Aritmética Binária - HW](https://insper.github.io/Z01.1/Teoria-Aritmetica-Binaria-HW/) |
 
-1. Expositiva/ Dúvidas (0h40):
+1. Expositiva/ Dúvidas (0h30):
+    - [Slides](https://github.com/Insper/Z01.1/raw/main/Aulas/08-Slides-ULA.pdf)
 
-1. Handout (0h30):
-   - [Handout Aritmética Booleana](https://github.com/Insper/Z01.1/blob/master/Exercicios/Exercicio-Aritmetica-Booleana.pdf)
+1. Handout (0h40):
+    - [Handout Aritmética Booleana](https://github.com/Insper/Z01.1/blob/master/Exercicios/Exercicio-Aritmetica-Booleana.pdf)
 
-1. Laboratórios (0h60)
-   - [Lab 6: Adders][/Z01.1/ula-Lab-1/]
-   - [Lab 7: Visualizando simulação ][/Z01.1/ula-Lab-2/]
+1. Laboratórios (0h50)
+    - [Lab 6: Adders][/Z01.1/ula-Lab-1/]
+    - [Lab 7: Visualizando simulação ][/Z01.1/ula-Lab-2/]
 
--->
+
 
 ## Aula 7
 
 Aula estúdio Projeto B.
 
 1. Laboratórios (2h00)
-   - [Lab5: Lógica Combinacional](/Z01.1/LogiComb-Lab-2)
+    - [Lab5: Lógica Combinacional](/Z01.1/LogiComb-Lab-2)
 
 ## Aula 6
 
