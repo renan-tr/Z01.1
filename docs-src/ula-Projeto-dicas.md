@@ -8,7 +8,7 @@ Como não temos mais o hardware disponível, teremos que modificar os testes par
     - Alterar os testes existentes 
 1. Testar
 
-## Como fazeer? Exemplo
+## Como fazer? Exemplo
 
 Imagine uma ALU em que foi implementado a seguinte funcionalidade: multiplicar um número X por 2.
 As alterações necessárias para esta operação foram feitas no arquivo da ULA (VHDL) do grupo.
