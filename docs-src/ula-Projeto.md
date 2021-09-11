@@ -2,14 +2,14 @@
 
 | Entrega      |
 |--------------|
-| 25/3 - Quinta |
+| 16/09 - Quinta |
 
 ![ULA](figs/D-ULA/D-sistema-ula.png)
 
 Neste projeto seu grupo terá que desenvolver os componentes para a implementação de uma unidade lógica e aritmética (ULA) de 16 bit (proposta pelo livro texto) que será capaz de realizar operações binárias muito simples porém que possibilitará realizarmos muitas coisas!
 
 !!! warning
-    O grupo deve eleger um novo scrum master para essa entrega.
+    O grupo deve eleger um novo scrum master para essa entrega (diferente do projeto B).
 
 !!! note 
     Nas discussões com o grupo, o scrum master deverá definir 
@@ -26,7 +26,7 @@ Neste projeto seu grupo terá que desenvolver os componentes para a implementaç
 
 ## Instruções 
 
-A pasta do projeto D, no repositório Z01, possui a seguinte estrutura:
+A pasta do projeto C, no repositório Z01, possui a seguinte estrutura:
 
 ```bash
 /C-ULA
