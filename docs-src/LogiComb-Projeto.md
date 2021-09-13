@@ -2,7 +2,7 @@
 
 | Data da entrega| 
 |----------------|
-| Quinta - 09/09 |
+| ~~Quinta - 09/09~~ Prorrogado até 15/09 |
 
 ![](figs/LogiComb/sistema-comb.svg)
 
