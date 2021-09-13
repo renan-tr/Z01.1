@@ -35,7 +35,7 @@ Labs:
 
 -  Labs e Teoria (~1h15):
 
-
+-->
 
 ## Aula 9
 
@@ -45,13 +45,13 @@ Detalhes da ULA da CPU do Z01.1.
 |---------------------------------------------------|
 | [ULA](https://insper.github.io/Z01.1/Teoria-ULA/) |
 
-1. Expositiva (0h30)
+1. Expositiva/Dúvidas (0h30)
    
 1. Laboratórios (0h30)
    - [Lab 8: ULA][/Z01.1/ula-Lab-3/]
 
 1. Aula estúdio (1h00)
--->
+
 
 ## Aula 8 
 
