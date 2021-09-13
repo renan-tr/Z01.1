@@ -37,7 +37,7 @@ Labs:
 
 -->
 
-## Aula 9
+## Aula 9 - 15/09
 
 Detalhes da ULA da CPU do Z01.1.
 
@@ -48,7 +48,7 @@ Detalhes da ULA da CPU do Z01.1.
 1. Expositiva/Dúvidas (0h30)
    
 1. Laboratórios (0h30)
-   - [Lab 8: ULA][/Z01.1/ula-Lab-3/]
+   - [Lab 8: ULA](/Z01.1/ula-Lab-3/)
 
 1. Aula estúdio (1h00)
 
