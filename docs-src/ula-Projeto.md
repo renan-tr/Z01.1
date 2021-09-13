@@ -189,8 +189,10 @@ Cada integrante do grupo irá receber duas notas: uma referente ao desenvolvimen
 | C        | - Configurou o travis para testar o projeto                                                           |
 |          | - Todos os modulos implementando e passam nos testes                                                  |
 |          | - Faz reaproveitamentos dos módulos via `port map` sempre que possível                                |
+<--
 |          | - Possui a forma de onda de todos os módulos (.png).                                                  |
 |          | - Compila no Quartus a ULA do grupo e fez um vídeo demonstrando o seu funcionamento (FPGA).           |
+-->
 |          |                                                                                                       |
 | D        | - Implementou todos os módulos menos a ULA.                                                           |
 |          |                                                                                                       |
@@ -208,3 +210,7 @@ Cada integrante do grupo irá receber duas notas: uma referente ao desenvolvimen
 As rubricas a serem seguidas serão comuns a todos os projeto e está descrito no link:
 
  - [Rubricas Scrum e Desenvolvedor](/Sobre-Rubricas/)
+
+### Formulários
+ - [Scrum Master](https://docs.google.com/forms/d/e/1FAIpQLSfSilUkK34Mlawy-6pK9RipbN7HdYzP2i2dSFl7weiHF_07yg/viewform?usp=sf_link)
+ - [Desenvolvedores](https://docs.google.com/forms/d/e/1FAIpQLSduO77Uzt0i8weuF1Jj-9T2dY868zRn_FWT4HdgE7dNf_VT4w/viewform?usp=sf_link)
