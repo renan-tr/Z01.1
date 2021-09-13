@@ -34,8 +34,8 @@ $ git remote add upstream https://github.com/insper/Z01.1
 
 ``` bash
 $ git fetch upstream
-$ git checkout master
-$ git merge upstream/master
+$ git checkout main
+$ git merge upstream/main
 ```
 
 Feito isso deve ter aparecido uma nova pasta dentro do repositório de vocês: `Projetos/B-LogicaCombinacional/`.
@@ -72,7 +72,7 @@ Após editar esse arquivo deve realizar um commit e fazer o envio para o github:
 
 ```bash
 $ git commit -am "configurado scrum do projeto"
-$ git push origin master
+$ git push origin main
 ```
 
 !!! note
@@ -92,16 +92,16 @@ $ ./updateZ01tools.sh
     1. Todos desenvolvedores devem fazer essa etapa.
     1. ==Fazer isso somente depois que o mediador fez a parte dele!==
 
-Volte para a branch master:
+Volte para a branch main:
 
 ```
-$ git checkout master
+$ git checkout main
 ```
 
 Agora todos os integrantes do grupo devem atualizar o repositório local:
 
 ```
-$ git pull origin master
+$ git pull origin main
 ```
 
 ## Atualizando Infra
