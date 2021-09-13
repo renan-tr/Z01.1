@@ -189,14 +189,15 @@ Cada integrante do grupo irá receber duas notas: uma referente ao desenvolvimen
 | C        | - Configurou o travis para testar o projeto                                                           |
 |          | - Todos os modulos implementando e passam nos testes                                                  |
 |          | - Faz reaproveitamentos dos módulos via `port map` sempre que possível                                |
-<--
-|          | - Possui a forma de onda de todos os módulos (.png).                                                  |
-|          | - Compila no Quartus a ULA do grupo e fez um vídeo demonstrando o seu funcionamento (FPGA).           |
--->
 |          |                                                                                                       |
 | D        | - Implementou todos os módulos menos a ULA.                                                           |
 |          |                                                                                                       |
 | I        | - Não implementou os módulos Add16, ULA, Comparador, FullAdder, HalfAdder, Inc16, Inversosr, Zerador. |
+
+<--
+|          | - Possui a forma de onda de todos os módulos (.png).                                                  |
+|          | - Compila no Quartus a ULA do grupo e fez um vídeo demonstrando o seu funcionamento (FPGA).           |
+-->
 
 !!! note
     1. ~~Para os conceitos B e A, o grupo deve gravar um vídeo da FPGA demonstrando que as modificações funcionam.~~
