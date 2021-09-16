@@ -37,6 +37,25 @@ Labs:
 
 -->
 
+## Aula 10 - 17/09
+
+Começo do projeto D-Lógica Sequencial.
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [Lógica Sequencial](https://insper.github.io/Z01.1/Teoria-Logica-Sequencial/)           |
+
+
+1. Expositiva/ Dúvidas (0h40):
+    - [Slides](https://github.com/Insper/Z01.1/raw/main/Aulas/10-Slides-LogSequencial.pdf)
+
+1. Simulação Clock (0h40):
+    - Tinkercad
+
+1. Laboratório (0h40)
+    - [Lab 10: Adders](/Z01.1/seq-Lab-1/)
+
+
 ## Aula 9 - 15/09
 
 Detalhes da ULA da CPU do Z01.1.
