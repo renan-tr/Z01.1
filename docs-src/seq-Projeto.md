@@ -1,4 +1,4 @@
-# D - Lógica Sequencia
+# D - Lógica Sequencial
 
 | Entrega      |
 |--------------|
