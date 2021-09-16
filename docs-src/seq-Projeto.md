@@ -171,9 +171,9 @@ Para cada módulo deve-se gerar o `RTL` e salvar uma imagem da implementação n
 !! warning
     Não basta só gerar a imagem, você precisa analisar e entender. Isso será cobrado nas avaliações.
 
-~~### Testando em Hardware ~~
+~~### Testando em Hardware~~
 
-~~No hardware você deverá desenvolver um cenário de teste para o `Program Counter` ou para para a `RAM8`. ~~
+~~No hardware você deverá desenvolver um cenário de teste para o `Program Counter` ou para para a `RAM8`.~~
 
 ## Rubricas para avaliação de projetos
 
