@@ -1,5 +1,9 @@
 # D - Lógica Sequencia
 
+| Entrega      |
+|--------------|
+| 23/09 - Quinta |
+
 ![](figs/E-LogSeq/sistema-seq.png)
 
 Neste projeto você terá que desenvolver os componentes de memória que serão utilizados no computador Z01.
@@ -167,9 +171,9 @@ Para cada módulo deve-se gerar o `RTL` e salvar uma imagem da implementação n
 !! warning
     Não basta só gerar a imagem, você precisa analisar e entender. Isso será cobrado nas avaliações.
 
-### Testando em Hardware
+~~### Testando em Hardware ~~
 
-No hardware você deverá desenvolver um cenário de teste para o `Program Counter` ou para para a `RAM8`.
+~~No hardware você deverá desenvolver um cenário de teste para o `Program Counter` ou para para a `RAM8`. ~~
 
 ## Rubricas para avaliação de projetos
 
@@ -194,7 +198,7 @@ Cada integrante do grupo irá receber duas notas: uma referente ao desenvolvimen
 
 ### A - Módulos extras
 
-Para a rubrica A o grupo deve implementar os seguintes módulos extras e os seus testes (estão fazios!)
+Para a rubrica A o grupo deve implementar os seguintes módulos extras e os seus testes (estão vazios!)
 
 !!! warning
     Vocês devem implementar o módulos e seus testes!
