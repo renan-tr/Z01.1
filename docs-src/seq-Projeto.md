@@ -227,3 +227,13 @@ Para a rubrica A o grupo deve implementar os seguintes módulos extras e os seus
 ![](figs/E-LogSeq/CounterDown.png)
 
 > Fonte: (2008) Fundamentals of Digital Logic with VHDL Design - pg. 406
+
+### Desenvolvedor e Scrum Master
+
+As rubricas a serem seguidas serão comuns a todos os projeto e está descrito no link:
+
+ - [Rubricas Scrum e Desenvolvedor](/Sobre-Rubricas/)
+
+### Formulários
+ - [Scrum Master](https://docs.google.com/forms/d/e/1FAIpQLSeVewaJIMBCWYt3CsQ3MBzyMr_RaqtBkdEytX4m8B8aSdZ6uA/viewform?usp=sf_link)
+ - [Desenvolvedores](https://docs.google.com/forms/d/e/1FAIpQLSduO77Uzt0i8weuF1Jj-9T2dY868zRn_FWT4HdgE7dNf_VT4w/viewform?usp=sf_link)
